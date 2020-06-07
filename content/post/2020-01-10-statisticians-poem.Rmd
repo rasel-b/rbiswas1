@@ -1,0 +1,44 @@
+---
+title: Statistician's Poem
+author: Rasel Biswas
+date: '2020-01-10'
+slug: statisticians-poem
+categories: []
+tags:
+  - Poem
+  - Statistics
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-04-26T09:20:59+06:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+> We are statisticians.
+> 
+> We may not be normal-
+> 
+> But we are transformable.
+> 
+> We are the "mean" lovers.
+> 
+> We feel complete and sufficient.
+> 
+> We don’t accept proposals, we just fail to reject.
+> 
+> We do things with confidence, frequency, and variability.
+> 
+> We can legally comment on someone's posterior distribution.
+> 
+> We are always right because no one knows what we do.
+> 
+> We never have to say we are certain.
+> 
+> We get paid to make errors.
+> 
+> We are honestly significantly different.
