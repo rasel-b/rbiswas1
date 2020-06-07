@@ -34,6 +34,11 @@
 ##   url = "courses/"
 ##   weight = 50
 
+## [[main]]
+##   name = "Resume"
+##   url = "resume/"
+##   weight = 50
+  
 [[main]]
   name = "Contact"
   url = "#contact"
