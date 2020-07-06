@@ -41,4 +41,4 @@ user_groups:
 - Visitors
 ---
 
-Rasel Biswas is a student of Applied Statistics at the University of Dhaka. His research interests include biostatistics, mixed-effects models, and multiple imputation. He is doing his master's thesis on multiple imputation topic.
+Rasel Biswas is a student of Applied Statistics at the University of Dhaka. His research interests include biostatistics, mixed-effects models, and inference for incomplete data. Currently, he is working on his master's thesis project on multiple imputation topic.
