@@ -30,23 +30,5 @@ subtitle = ""
   icon = "music"
   icon_pack = "fas"
   name = "Music"
-  description = "60%" 
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
-[[feature]]
-  icon = "chess"
-  icon_pack = "fas"
-  name = "Chess"
-  description = "20%"
-
-[[feature]]
-  icon = "code"
-  icon_pack = "fas"
-  name = "Yihui Xie"
-  description = "5%"
+  description = "50%" 
 +++
