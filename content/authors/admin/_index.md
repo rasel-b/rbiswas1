@@ -12,12 +12,12 @@ education:
 email: rbiswas1@isrt.ac.bd
 interests:
 - Biostatistics
-- Mixed-effects models
 - Multiple imputation
+- R Programming
 organizations:
 - name: University of Dhaka
   url: https://du.ac.bd
-role: Student of Applied Statisics
+role: M.S. Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,12 +33,13 @@ social:
   link: https://researchgate.com/rasel-biswas
 - icon: github
   icon_pack: fab
-  link: https://github.com/rasel-b
+  link: https://github.com/rasel-biswas
 superuser: yes
 authors: admin
 user_groups:
 - Researchers
 - Visitors
 ---
-
-Rasel Biswas is a student of Applied Statistics at the University of Dhaka. His research interests include biostatistics, mixed-effects models, and inference for incomplete data. Currently, he is working on his master's thesis project on multiple imputation topic.
+I received a B.S. in Applied Statistics from University of Dhaka and is now pursuing a Master’s degree in Applied Statistics at the same university.
+I’m a big fan of [**R**](https://www.r-project.org/), a statistical programming language.
+Currently, I am working on my master's thesis project on multiple imputation topic.
