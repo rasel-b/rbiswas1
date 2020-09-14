@@ -11,7 +11,8 @@ education:
     year: 2021
 email: rbiswas1@isrt.ac.bd
 interests:
-- Biostatistics
+- Statistics
+- Missing Data
 - Multiple imputation
 - R Programming
 organizations:
@@ -42,4 +43,4 @@ user_groups:
 ---
 I received a B.S. in Applied Statistics from University of Dhaka and is now pursuing a Master’s degree in Applied Statistics at the same university.
 I’m a big fan of [**R**](https://www.r-project.org/), a statistical programming language.
-Currently, I am working on my master's thesis project on multiple imputation topic.
+Currently, I am working on my master's thesis project on the topic 'Likelihood ratio tests with multiply-imputed datasets'.
