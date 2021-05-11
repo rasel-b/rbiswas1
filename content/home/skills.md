@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "rstats | rstudio | rmarkdown"
   
 [[feature]]
   icon = "chart-line"
@@ -30,5 +30,5 @@ subtitle = ""
   icon = "music"
   icon_pack = "fas"
   name = "Music"
-  description = "50%" 
+  description = "20%" 
 +++
