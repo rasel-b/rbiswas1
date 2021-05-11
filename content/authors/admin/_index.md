@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: University of Dhaka
   url: https://du.ac.bd
-role: M.S. Student
+role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,7 +31,7 @@ social:
   link: https://facebook.com/rsl.biswas
 - icon: researchgate
   icon_pack: fab
-  link: https://researchgate.com/rasel-biswas
+  link: https://researchgate.net/profile/Rasel-Biswas
 - icon: github
   icon_pack: fab
   link: https://github.com/rasel-biswas
