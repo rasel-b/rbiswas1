@@ -24,7 +24,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "#rstats #tidyverse #rmarkdown"
+  description = "#rstats #tidyverse #rmarkdown #ggplot2"
 
 [[feature]]
   icon = "code"
