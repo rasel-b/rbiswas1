@@ -15,20 +15,26 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "rstats | rstudio | rmarkdown"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
- 
+  description = "#graduate"  
+
 [[feature]]
-  icon = "music"
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "#rstats #tidyverse #rmarkdown"
+
+[[feature]]
+  icon = "code"
   icon_pack = "fas"
-  name = "Music"
-  description = "20%" 
+  name = "RStudio"
+  description = "#fluent #yihuixie"
+
+[[feature]]
+  icon = "font"
+  icon_pack = "fas"
+  name = "LaTex"
+  description = "#experienced" 
 +++
