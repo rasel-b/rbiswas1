@@ -35,6 +35,6 @@ subtitle = ""
 [[feature]]
   icon = "font"
   icon_pack = "fas"
-  name = "LaTex"
+  name = "LaTeX"
   description = "#experienced" 
 +++
