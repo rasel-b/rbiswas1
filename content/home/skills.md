@@ -30,11 +30,17 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "RStudio"
-  description = "#fluent #yihuixie"
+  description = "#fluent"
 
 [[feature]]
   icon = "font"
   icon_pack = "fas"
   name = "LaTeX"
   description = "#experienced" 
+  
+#[[feature]]
+#  icon = "RStudio_logo_flat"
+#  icon_pack = "custom"
+#  name = "RStudio"
+#  description = "90% " 
 +++
