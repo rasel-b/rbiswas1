@@ -24,7 +24,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "#rstats #tidyverse #rmarkdown #ggplot2"
+  description = "#tidyverse #ggplot2 #rmarkdown"
 
 [[feature]]
   icon = "code"
@@ -32,11 +32,11 @@ subtitle = ""
   name = "RStudio"
   description = "#fluent"
 
-[[feature]]
-  icon = "font"
-  icon_pack = "fas"
-  name = "LaTeX"
-  description = "#experienced" 
+#[[feature]]
+#  icon = "font"
+#  icon_pack = "fas"
+#  name = "LaTeX"
+#  description = "#experienced" 
   
 #[[feature]]
 #  icon = "RStudio_logo_flat"
