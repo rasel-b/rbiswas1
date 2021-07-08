@@ -25,9 +25,9 @@ subtitle = ""
     name = "All"
     tag = "*"
 
-  [[content.filter_button]]
-    name = "rstats"
-    tag = "rstats"
+#  [[content.filter_button]]
+#    name = "rstats"
+#    tag = "rstats"
 
   [[content.filter_button]]
     name = "academic"
