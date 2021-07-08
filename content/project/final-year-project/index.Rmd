@@ -16,7 +16,7 @@ tags:
 - academic
 ---
 
-This is Rasel Biswas’s final year research project for the B.S. (honors) degree at the University of Dhaka.
+This is Rasel Biswas’s final year research project for the B.S. (honors) degree at University of Dhaka.
 
 
 
