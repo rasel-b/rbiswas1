@@ -25,10 +25,10 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/raselBW
+  link: https://twitter.com/rasel_bw
 - icon: facebook
   icon_pack: fab
-  link: https://facebook.com/rsl.biswas
+  link: https://facebook.com/biswas13
 - icon: researchgate
   icon_pack: fab
   link: https://researchgate.net/profile/Rasel-Biswas
