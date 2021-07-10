@@ -25,7 +25,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/rasel_bw
+  link: https://twitter.com/_raselbiswas
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/biswas15
