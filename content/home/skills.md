@@ -18,25 +18,25 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "#graduate"  
+  description = "graduate"  
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "#tidyverse #ggplot2 #rmarkdown"
-
-[[feature]]
-  icon = "code"
-  icon_pack = "fas"
-  name = "RStudio"
-  description = "#fluent"
+  description = "tidyverse + ggplot2 + rmarkdown"
 
 #[[feature]]
-#  icon = "font"
+#  icon = "code"
 #  icon_pack = "fas"
-#  name = "LaTeX"
-#  description = "#experienced" 
+#  name = "RStudio"
+#  description = "#fluent"
+
+[[feature]]
+  icon = "font"
+  icon_pack = "fas"
+  name = "LaTeX"
+  description = "fairly good" 
   
 #[[feature]]
 #  icon = "RStudio_logo_flat"
